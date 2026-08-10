@@ -1,0 +1,25 @@
+# Dr. Rafael Nogueira — Clínica Médica
+
+> Site institucional de médico clínico geral em São Paulo/SP, Brasil.
+> Atendimento humanizado, com agendamento via WhatsApp e Google Calendar.
+
+## Sobre
+Dr. Rafael Nogueira é médico formado pela Universidade de São Paulo (USP),
+com residência em Clínica Médica pelo Hospital das Clínicas. Atende adultos
+com foco em check-up preventivo, acompanhamento de doenças crônicas
+(hipertensão, diabetes) e medicina preventiva.
+
+## Localização e contato
+- Endereço: Av. Paulista, 1000 — sala 402, São Paulo/SP, Brasil
+- WhatsApp: agendamento direto pelo site
+- E-mail: contato@drrafaelnogueira.com.br
+
+## Horário de atendimento
+Segunda a sexta-feira, 8h às 18h (quintas até 20h). Fechado aos fins de semana.
+
+## Páginas
+- / — página principal: sobre o médico, especialidades, horários,
+  depoimentos, perguntas frequentes e contato.
+
+Nota: este site usa dados de demonstração (nome, endereço e contatos são
+fictícios) e serve como modelo de landing page médica.
